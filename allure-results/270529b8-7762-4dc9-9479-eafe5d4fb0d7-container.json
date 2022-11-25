@@ -1,0 +1,1 @@
+{"uuid":"270529b8-7762-4dc9-9479-eafe5d4fb0d7","name":"TestingSeb","children":["29b48cba-0db0-46ad-a856-09ad90623f1b"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1669377609155,"stop":1669377609239}],"start":1669377595934,"stop":1669377609239}
